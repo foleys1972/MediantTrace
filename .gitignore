@@ -1,0 +1,11 @@
+publish/
+bin/
+obj/
+.vs/
+*.user
+traces/
+*.pcap
+settings.json
+sbc-backups/
+sbc-known-hosts.txt
+*.log
