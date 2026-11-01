@@ -1,0 +1,24 @@
+publish/
+bin/
+obj/
+.vs/
+*.user
+traces/
+*.pcap
+settings.json
+sbc-backups/
+sbc-known-hosts.txt
+standards/
+labels.json
+*.log
+publish-*/
+# Runtime data written next to the program: never commit
+*.json
+splunk/
+syslog/
+syslog-out/
+*.pfx
+*.pfx.dpapi
+*.cer
+run.txt
+*.pcapng
